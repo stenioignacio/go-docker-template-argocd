@@ -1,0 +1,5 @@
+helloWorld:
+  image: stenioignacio/go-argocd:latest
+  replicas: 2
+  port: 8080
+  imagePullPolicy: Always
