@@ -1,5 +1,5 @@
 helloWorld:
-  image: stenioignacio/go-argocd:eac9ea0
+  image: stenioignacio/go-argocd:pr-0c640d3
   replicas: 2
   port: 8080
   imagePullPolicy: Always
